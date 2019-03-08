@@ -1,0 +1,64 @@
+\begin{longtable}{|l|l|l|c|r|}
+\caption{Case law 2: JAR 2014/298}\label{long2}\\
+\hline
+Document ID & Document Type & Document Class & Usage & Author Affiliation\\
+\hline
+\endfirsthead
+16195378 & Journal Article & Practitioners & 2/1 & Editor\\
+20169252 & Journal Article & Practitioners & 60/2 & Editor\\
+20169246 & Journal Article & Practitioners & 0/2 & Editor\\
+14684386 & Journal Article & Practitioners & 0/0 & Editor\\
+16231311 & Reference Work & Practitioners & 4/8 & University\\
+23686851 & News & Practitioners & 2/5 & Editor\\
+24136426 & News & Practitioners & 1/8 & Editor\\
+22243139 & Annotated Case Law & Practitioners & 64/115 & Court\\
+11839123 & Reference Work & Practitioners & 8/6 & Law Firm\\
+27776041 & News & Practitioners & 22/35 & Editor\\
+16231313 & Reference Work & Practitioners & 13/16 & University\\
+14293542 & News & Practitioners & 6/4 & Editor\\
+25533655 & Reference Work & Practitioners & 0/28 & University\\
+4275936 & Reference Work & Practitioners & 16/8 & University (2)\\
+16038293 & News & Practitioners & 0/0 & Editor\\
+4325527 & Reference Work & Practitioners & 49/56 & University, Law Firm\\
+14642301 & Case Law & Practitioners & 18/34 & Court\\
+30571772 & Annotated Case Law & Practitioners & 30/180 & Court\\
+30571773 & Annotated Case Law & Practitioners & 84/241 & Court\\
+15653035 & Case Law & Practitioners & 8/8 & Court\\
+14482330 & Annotated Case Law & Practitioners & 6/44 & Court\\
+14491598 & Annotated Case Law & Practitioners & 39/14 & Law Firm\\
+15409169 & Annotated Case Law & Practitioners & 155/169 & Law Firm\\
+15620503 & Case Law & Practitioners & 18/22 & Court\\
+15752889 & Annotated Case Law & Practitioners & 68/110 & University, Court\\
+21263457 & Journal Article & Practitioners & 192/28 & Law Firm\\
+24302616 & Journal Article & Practitioners & 74/175 & University\\
+31035811 & Reference Work & Practitioners & 0/8 & Law Firm\\
+20274835 & Reference Work & Scholars & 0/0 & University (3)\\
+14657435 & Journal Article & Practitioners & 0/0 & Law Firm\\
+15050038 & Journal Article & Practitioners & 23/40 & Law Firm\\
+16245603 & Case Law	& Practitioners & 8/21 & Court\\
+15084658 & Case Law &Practitioners & 6/6 & Court\\
+14648216 & Case Law & Practitioners & 4/21 & Court\\
+16214095 & Case Law & Practitioners & 10/25 & Court\\
+11522480 & Annotated Case Law & Practitioners & 14/3 & University, Law Firm\\
+15623552 & Case Law & Practitioners & 0/4 & Court\\
+14290673 & Case Law & Practitioners & 5/11 & Court\\
+16431938 & Case Law & Practitioners & 18/31 & Court\\
+20152281 & Journal Article & Practitioners & 64/71 & University\\
+15437474 & Case Law & Practitioners & 3/11 & Court\\
+31035796 & Reference Work & Practitioners & 0/0 & Law Firm\\
+20152275 & Journal Article & Practitioners & 210/147 & University (2), Law Firm\\
+16195278 & Annotated Case Law & Practitioners & 152/151 & University\\
+23569717 & Case Law & Practitioners & 18/47 & Court\\
+19930238 & Case Law & Practitioners & 34/41 & Court\\
+15202947 & Annotated Case Law & Practitioners & 31/65 & Law Firm\\
+14398029 & Case Law & Practitioners & 14/2 & Court\\
+26822976 & Journal Article & Practitioners & 144/212 & University\\
+15537093 & Annotated Case Law & Practitioners & 43/52 & University\\
+6264848 & Reference Work & Practitioners & 34/14 & University\\
+31236921 & Book Chapter & Practitioners & 0/0 & University (5), Law Firm\\
+22243107 & Reference Work & Practitioners & 0/44 & Law Firm (2)\\
+6199762 & Reference Work & Practitioners & 320/184 & University (2), Law Firm\\
+17820791 & Annotated Case Law & Practitioners & 165/136 & University\\
+15190053 & Annotated Case Law & Practitioners & 84/98 & University\\
+\hline
+\end{longtable}
