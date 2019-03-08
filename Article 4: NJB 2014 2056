@@ -1,0 +1,24 @@
+\begin{table}
+\caption{Article 4: NJB 2014/2056}\label{NJB2056}
+\begin{tabular}{|l|l|l|c|r|}
+\hline
+Document ID & Document Type & Document Class & Usage & Author Affiliation\\
+\hline
+
+27508695 & Reference Work & Practitioners & 0/10 & University, Government\\
+\textbf{16239997} & \textbf{Reference Work} & \textbf{Scholars} & \textbf{2/3} & \textbf{University}\\
+\textbf{16239687} & \textbf{Reference Work} & \textbf{Scholars} & \textbf{3/5} & \textbf{University}\\
+16098062 & Reference Work & Practitioners & 8/10 & University\\
+20463236 & Journal Article & Practitioners & 19/172 & Court\\
+14503402 & Journal Article & Scholars & 35/31 & Government (3)\\
+24285903 & Case Law & Practitioners & 12/19 & Court\\
+24291241 & Case Law & Practitioners & 3/12 & Court\\
+24291257 & Case Law & Practitioners & 3/12 & Court\\
+24291016 & Case Law & Practitioners & 4/8 & Court\\
+24295988 & Case Law & Practitioners & 8/25 & Court\\
+24291186 & Case Law & Practitioners & 5/14 & Court\\
+27306129 & Case Law & Practitioners & 10/50 & Court\\
+29416609 & Annotated Case Law & Practitioners & 26/119 & University, Court\\
+\hline
+\end{tabular}
+\end{table}
