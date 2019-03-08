@@ -1,0 +1,14 @@
+\begin{table}
+\caption{Article 1: NJB 2014/1962 (\textit{Bescheidenheid en moed})}\label{NJB1962}
+\begin{tabular}{|l|l|l|c|r|}
+\hline
+Document ID & Document Type & Document Class & Usage & Author Affiliation\\
+\hline
+14170627 & Journal Article & Practitioners & 0/0 & Editor\\
+27291445 & Reference Work & Scholars & 0/8 & University\\
+21581785 & Reference Work & Scholars & 0/1 & University, Court\\
+15267731 & Journal Article & Practitioners & 60/30 & University\\
+15267736 & Journal Article & Practitioners & 105/45 & University\\
+\hline
+\end{tabular}
+\end{table}
