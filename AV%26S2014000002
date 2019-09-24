@@ -2,14 +2,14 @@ Audience,Authors,DocID,DocumentType,PractitionerAffiliations,Practitioners,Schol
 Practitioners,Editors,12707426,Artikelen,0,0.0,1.0,['DJ'],"Data Juridica, Is de staat aansprakelijk voor klimaatverandering?",0,Practitioners
 Practitioners,Editors,14288293,Artikelen,0,0.0,0.0,['DJ'],"Data Juridica, Aansprakelijkheid en klimaatverandering: de Nederlandse Staat handelt niet onrechtmatig",0,Practitioners
 Scholars,"['Thurlings, T.J.']",14274221,Artikelen,0,12.0,17.0,['AV&S'],"Aansprakelijkheid, Verzekering & Schade, Aansprakelijkheid en klimaatverandering: de Nederlandse Staat handelt niet onrechtmatig",1,Scholars
-Scholars,"['Hartlief, T.']",22212634,Naslagwerken,0,0.0,0.0,['Kritiek op recht'],"Kritiek op recht. Liber Amicorum Gerrit van Maanen, 10.7 Waait er werkelijk een andere wind in de Kazernestraat?",0,Practitioners
+Scholars,"['Hartlief, T.']",22212634,Naslagwerken,0,0.0,0.0,['Kritiek op recht'],"Kritiek op recht. Liber Amicorum Gerrit van Maanen, 10.7 Waait er werkelijk een andere wind in de Kazernestraat?",1,Practitioners
 Practitioners,"['Boonekamp, R.J.B.']",4764739,Naslagwerken,0,25.0,9.0,['Groene Serie - Schadevergoeding'],"Groene Serie Schadevergoeding, 1.6.2.3 Pro rata: verschillende gebeurtenissen dragen slechts additioneel tot schade bij bij: Burgerlijk Wetboek Boek 6, Artikel 102 [Medeschuld]",0,Practitioners
-Scholars,"['Hartlief, T.']",22212627,Naslagwerken,0,3.0,1.0,['Kritiek op recht'],"Kritiek op recht. Liber Amicorum Gerrit van Maanen, 10.1 Inleiding",0,Practitioners
+Scholars,"['Hartlief, T.']",22212627,Naslagwerken,0,3.0,1.0,['Kritiek op recht'],"Kritiek op recht. Liber Amicorum Gerrit van Maanen, 10.1 Inleiding",1,Scholars
 Practitioners,"['Boonekamp, R.J.B.']",4449120,Naslagwerken,0,7.0,5.0,['Groene Serie - Schadevergoeding'],"Groene Serie Schadevergoeding, 5.24 Milieuschade bij: Burgerlijk Wetboek Boek 6, Artikel 98 [Causaal verband]",0,Practitioners
 Scholars,"['Cox, R.H.J.', 'Berg van den, J.T.J.']",12685430,Artikelen,2,16.0,49.0,['AV&S'],"Aansprakelijkheid, Verzekering & Schade, Is de staat aansprakelijk voor klimaatverandering?",0,Practitioners
 Practitioners,"['Linden van der, T.', 'Pieterse, M.J.C.', 'Voskamp, S.', 'Hoog de, L.', 'Boelens, G.G.B.']",13727717,Artikelen,0,15.0,35.0,['AAK'],Burgerlijk recht,0,Practitioners
 Practitioners,"['Deurvorst, T.E.']",14922307,Naslagwerken,0,8.0,5.0,['Groene Serie - Onrechtmatige daad'],"Groene Serie Onrechtmatige daad, II.2.1.2.21 Aard der verplichting",0,Practitioners
-Scholars,"['Giesen, I.']",16683692,Naslagwerken,0,8.0,2.0,['De Spier-bundel'],"De Spier-bundel. De agenda van het aansprakelijkheidsrecht, 3 … en door naar Oslo",0,Practitioners
+Scholars,"['Giesen, I.']",16683692,Naslagwerken,0,8.0,2.0,['De Spier-bundel'],"De Spier-bundel. De agenda van het aansprakelijkheidsrecht, 3 … en door naar Oslo",1,Scholars
 Scholars,"['Kreeftmeijer, N.F.']",31876598,Artikelen,0,46.0,37.0,['AV&S'],"Aansprakelijkheid, Verzekering & Schade, Proportionele aansprakelijkheid voor klimaatschade, een te kleine bijdrage?",1,Scholars
 Practitioners,Court,13212577,Rechtspraak,1,25.0,12.0,['RVDW'],Art. 81 lid 1 RO. Onrechtmatige daad. Art. 6:174 BW. Fietsongeval op gladde brug. Aansprakelijkheid gemeente?,0,Practitioners
 Practitioners,"['Broek van den, G.M.']",21353542,Artikelen,0,115.0,146.0,['AV&S'],"Aansprakelijkheid, Verzekering & Schade, Kroniek Milieuaansprakelijkheid",0,Practitioners
@@ -23,4 +23,4 @@ Practitioners,unknown,25013654,Officiële publicaties,0,11.0,17.0,['Overheid.nl'
 Practitioners,unknown,25012434,Overig,0,11.0,5.0,['Rijksoverheid.nl'],Jurisprudentie Veiligheid en gezondheid,0,Practitioners
 Practitioners,Court,13390630,Rechtspraak,1,61.0,30.0,['JA'],"JA 2014/78, Hoge Raad 04-04-2014, ECLI:NL:HR:2014:831, 13/02846 (met annotatie van mr. J. Veninga en prof. mr. F.T. Oldenhuis)",0,Practitioners
 Practitioners,"['Bergkamp, L.']",17678414,Artikelen,0,38.0,13.0,['TGMA'],Onrechtmatige gevaarzetting 4.0: rechterlijke revolutie met een nieuwe theorie van onrechtmatige daad?,0,Practitioners
-Scholars,"['Faure, M.G.', 'Hartlief, T.']",32504443,,0,0.0,0.0,['De Spier-bundel - druk: 1 - 2016'],De Spier-bundel - druk: 1 - 2016 - DEEL I HERIJKING VAN HET AANSPRAKELIJKHEIDSRECHT?,0,Practitioners
+Scholars,"['Faure, M.G.', 'Hartlief, T.']",32504443,,0,0.0,0.0,['De Spier-bundel - druk: 1 - 2016'],De Spier-bundel - druk: 1 - 2016 - DEEL I HERIJKING VAN HET AANSPRAKELIJKHEIDSRECHT?,2,Practitioners
