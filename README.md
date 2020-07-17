@@ -1,7 +1,7 @@
 # Citation-Metrics-for-Legal-Information-Retrieval-Systems
-Data corresponding to the Citation Metrics for Legal Information Retrieval Systems paper submitted to the Scientometrics special issue on bibliotmetrics enhanced information retrieval. An earlier version of this research has been presented at the 8th International Workshop on Bibliometric-enhanced Information Retrieval (BIR 2019)
+Data corresponding to the Citation Metrics for Legal Information Retrieval Systems paper by Wiggers G. and Verberne S.
 
-The documents contain information about the citing documents. Documents that are considered scholarly according to the requirements set out in the paper are marked as such in the 'Final' column.
+The documents contain information about the citing documents. Documents that are considered scholarly according to the requirements set out in the paper are marked as such in the 'Final' column. The classification scheme was updated in June 2020. The data files were updated accordingly.
 
 The 'Audience' column shows the categorization on document type/source. When 'DocumentType' and 'Source' were inconclusive, it was determined on 'Title_Text'.
 
