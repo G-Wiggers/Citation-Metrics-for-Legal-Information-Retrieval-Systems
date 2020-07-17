@@ -1,15 +1,16 @@
-Audience,Authors,DocID,DocumentType,PractitionerAffiliations,Practitioners,Scholars,Source,Title_Text,UniversityAffiliations,Final
-Practitioners,unknown,15446402,Nieuws,0,3.0,4.0,['Nieuws Arbeidsrecht'],Eerst gepubliceerde WWZ-uitspraak over concurrentiebeding in tijdelijke arbeidsovereenkomst,0,Practitioners
-Practitioners,"['Wolff de, D.J.B.']",24140268,Naslagwerken,0,13.0,2.0,['Flexibele Arbeidsrelaties (boek)'],"Flexibele arbeidsrelaties (Monografieën Sociaal Recht nr. 25), 3.3.2 Concurrentiebeding",0,Practitioners
-Practitioners,"['Groot de, C.J.H.']",13724078,Artikelen,0,22.0,36.0,['TAP'],Art. - De flexmaatregelen van de Wet werk en zekerheid,0,Practitioners
-Practitioners,"['Bitterlich-Straver, A.D.']",14502925,Artikelen,0,115.0,65.0,['TAP'],Art. - De motivering van het concurrentiebeding in arbeidsovereenkomsten voor bepaalde tijd: hoe moet de werkgever dit vormgeven?,0,Practitioners
-Practitioners,Court,15545098,Rechtspraak,1,124.0,66.0,['JAR'],"JAR 2015/211, Voorzieningenrechter Kantonrechter Rechtbank Amsterdam 23-07-2015, ECLI:NL:RBAMS:2015:4864, 4248300\KK EXPL 15-933 (met annotatie van mr. dr. A.F. Bungener)",0,Practitioners
-Practitioners,Court,23146360,Rechtspraak,1,63.0,34.0,['RAR'],"Concurrentiebeding. - Naar welk recht moet een concurrentiebeding beoordeeld worden, bij voortzetting van een tijdelijke arbeidsovereenkomst na 1 januari 2015, terwijl de voorwaarden eerder zijn overeengekomen?",0,Practitioners
-Practitioners,Court,15792692,Rechtspraak,1,45.0,23.0,['RAR'],WWZ. Concurrentiebeding. Arbeidsovereenkomst voor bepaalde tijd. - Wanneer is sprake van zwaarwegende bedrijfs- en dienstbelangen bij een concurrentiebeding in een arbeidsovereenkomst voor bepaalde tijd?,0,Practitioners
-Practitioners,"['Bennaars, J.H.']",12654373,Artikelen,0,32.0,49.0,['TAP'],"Art. - De opzegging: preventief en duaal, maar dan anders",0,Practitioners
-Practitioners,"['Besselink, P.J.B.M.', 'Snippenburg van, S.A.']",23713978,Artikelen,0,304.0,196.0,['TAP'],"Art. - ‘Zwaarwegende bedrijfs- of dienstbelangen’, zegen of misère?",0,Practitioners
-Practitioners,"['Sagel, S.F.']",14085966,Artikelen,0,59.0,74.0,['NJB'],"Nederlands Juristenblad, Kroniek van het sociaal recht",0,Practitioners
-Practitioners,"['Houweling, A.R.']",3908369,Naslagwerken,0,321.0,220.0,['Commentaar Arbeidsrecht Thematisch'],Commentaar op Burgerlijk Wetboek Boek 7 art. 668 (Arbeidsrecht),1,Practitioners
-Practitioners,"['Wolff de, D.J.B.', 'Fenema van, E.C.', 'Houte van, IJ.A.E.', 'Berg van den, L.', 'Verhulp, E.', 'Zwemmer, J.P.H.']",32499886,,1,0.0,0.0,['Flexibele arbeidsrelaties - druk: 2 - 2017'],Flexibele arbeidsrelaties - druk: 2 - 2017 - Hoofdstuk 3 - Arbeidsovereenkomsten voor bepaalde tijd,1,Practitioners
-Scholars,"['Houwen, L.G.H.J.']",30576245,Artikelen,1,111.0,110.0,['Tijdschrift voor Gezondheidsrecht'],Artikel - De organisatie van het ziekenhuis: integratieproces of Echternach-processie?,1,Scholars
-Practitioners,"['Dempsey, N.T.']",3908371,Naslagwerken,0,992.0,917.0,['Commentaar Arbeidsrecht Thematisch'],Commentaar op Burgerlijk Wetboek Boek 7 art. 653 (Arbeidsrecht),0,Practitioners
+Unknown;Audience;Authors;DocID;DocumentType;PractitionerAffiliations;Practitioners;Scholars;Source;Title_Text;UniversityAffiliations;Final
+0;Practitioners;unknown;15446402;Nieuws;0;3.0;4.0;['Nieuws Arbeidsrecht'];Eerst gepubliceerde WWZ-uitspraak over concurrentiebeding in tijdelijke arbeidsovereenkomst;0;Practitioners
+1;Practitioners;['Wolff de, D.J.B.'];24140268;Naslagwerken;0;13.0;2.0;['Flexibele Arbeidsrelaties (boek)'];Flexibele arbeidsrelaties (Monografieën Sociaal Recht nr. 25), 3.3.2 Concurrentiebeding;0;Practitioners
+2;Practitioners;['Groot de, C.J.H.'];13724078;Artikelen;0;22.0;36.0;['TAP'];Art. - De flexmaatregelen van de Wet werk en zekerheid;0;Practitioners
+3;Practitioners;['Bitterlich-Straver, A.D.'];14502925;Artikelen;0;115.0;65.0;['TAP'];Art. - De motivering van het concurrentiebeding in arbeidsovereenkomsten voor bepaalde tijd: hoe moet de werkgever dit vormgeven?;0;Practitioners
+4;Practitioners;Court;15545098;Rechtspraak;1;124.0;66.0;['JAR'];JAR 2015/211, Voorzieningenrechter Kantonrechter Rechtbank Amsterdam 23-07-2015, ECLI:NL:RBAMS:2015:4864, 4248300\KK EXPL 15-933 (met annotatie van mr. dr. A.F. Bungener);0;Practitioners
+5;Practitioners;Court;23146360;Rechtspraak;1;63.0;34.0;['RAR'];Concurrentiebeding. - Naar welk recht moet een concurrentiebeding beoordeeld worden, bij voortzetting van een tijdelijke arbeidsovereenkomst na 1 januari 2015, terwijl de voorwaarden eerder zijn overeengekomen?;0;Practitioners
+6;Practitioners;Court;15792692;Rechtspraak;1;45.0;23.0;['RAR'];WWZ. Concurrentiebeding. Arbeidsovereenkomst voor bepaalde tijd. - Wanneer is sprake van zwaarwegende bedrijfs- en dienstbelangen bij een concurrentiebeding in een arbeidsovereenkomst voor bepaalde tijd?;0;Practitioners
+7;Practitioners;['Bennaars, J.H.'];12654373;Artikelen;0;32.0;49.0;['TAP'];Art. - De opzegging: preventief en duaal, maar dan anders;1;Practitioners
+8;Practitioners;['Besselink, P.J.B.M.', 'Snippenburg van, S.A.'];23713978;Artikelen;0;304.0;196.0;['TAP'];"Art. - ‘Zwaarwegende bedrijfs- of dienstbelangen’, zegen of
+                                    misère?";0;Practitioners
+9;Practitioners;['Sagel, S.F.'];14085966;Artikelen;0;59.0;74.0;['NJB'];Nederlands Juristenblad, Kroniek van het sociaal recht;0;Practitioners
+10;Practitioners;['Houweling, A.R.'];3908369;Naslagwerken;0;321.0;220.0;['Commentaar Arbeidsrecht Thematisch'];Commentaar op Burgerlijk Wetboek Boek 7 art. 668 (Arbeidsrecht);1;Practitioners
+11;Practitioners;['Wolff de, D.J.B.', 'Fenema van, E.C.', 'Houte van, IJ.A.E.', 'Berg van den, L.', 'Verhulp, E.', 'Zwemmer, J.P.H.'];32499886;;2;0.0;0.0;['Flexibele arbeidsrelaties - druk: 2 - 2017'];Flexibele arbeidsrelaties - druk: 2 - 2017 - Hoofdstuk 3 - Arbeidsovereenkomsten voor bepaalde tijd;2;Practitioners
+12;Scholars;['Houwen, L.G.H.J.'];30576245;Artikelen;1;111.0;110.0;['Tijdschrift voor Gezondheidsrecht'];Artikel - De organisatie van het ziekenhuis: integratieproces of Echternach-processie?;1;Scholars
+13;Practitioners;['Dempsey, N.T.'];3908371;Naslagwerken;0;992.0;917.0;['Commentaar Arbeidsrecht Thematisch'];Commentaar op Burgerlijk Wetboek Boek 7 art. 653 (Arbeidsrecht);0;Practitioners
