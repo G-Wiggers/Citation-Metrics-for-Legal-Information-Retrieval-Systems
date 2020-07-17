@@ -1,18 +1,18 @@
-Audience,Authors,DocID,DocumentType,PractitionerAffiliations,Practitioners,Scholars,Source,Title_Text,UniversityAffiliations,Final
-Practitioners,Editors,12770368,Artikelen,0,0.0,0.0,['DJ'],"Data Juridica, Tegemoetkomingen van overheidswege: ongeregeld en ondoorzichtig bestuur anno 2014",0,Practitioners
-Practitioners,"['Heijst van, I.P.A.']",25686984,Naslagwerken,0,0.0,0.0,['Omgevingsweb Professional - Planschade en nadeelcompensatie'],Verhouding nadeelcompensatie tot subsidie,0,Practitioners
-Practitioners,Editors,12764872,Artikelen,0,0.0,2.0,['NJB'],"Nederlands Juristenblad, Staats- & bestuursrecht",0,Practitioners
-Practitioners,"['Schlössels, R.J.N.', 'Zijlstra, S.E.']",24307440,Naslagwerken,0,6.0,0.0,['Bestuursrecht in de sociale rechtsstaat Band I'],"Bestuursrecht in de sociale rechtsstaat Band 1 (Handboeken staats- en bestuursrecht), 573 Kritiek",1,Practitioners
-Practitioners,Court,13122325,Rechtspraak,1,15.0,35.0,['AB'],Als gevolg van de toepassing van het de-minimisplafond op de tegemoetkoming tijdelijk aalvisverbod wordt slechts minder dan de helft van de geleden schade vergoed. Dit is in strijd met het gelijkheidsbeginsel en het evenredigheidsbeginsel.,0,Practitioners
-Scholars,"['Tjepkema, M.K.G.']",12707423,Artikelen,0,48.0,159.0,['NTB'],"Nederlands Tijdschrift voor Bestuursrecht, Tegemoetkomingen van overheidswege: ongeregeld en ondoorzichtig bestuur anno 2014",1,Scholars
-Practitioners,unknown,8252370,Naslagwerken,0,12.0,0.0,['NDFR - Deel Invordering'],Commentaar bij Awb art. 4:98,0,Practitioners
-Practitioners,"['Graaf de, K.J.']",13730938,Artikelen,0,9.0,6.0,['AAK'],Bestuurs(proces)recht,0,Practitioners
-Practitioners,Editors,12928028,Artikelen,0,2.0,4.0,['TAR'],"Tijdschrift voor Ambtenarenrecht, TAR 2014/april - Informatief",0,Practitioners
-Scholars,"['Kortmann, C.N.J.']",31418164,Artikelen,1,21.0,7.0,['MvV'],Artikel - Het schadefonds Van Vollenhoven - Hoe om te gaan met gedupeerden van acute overheidsmaatregelen ten behoeve van de gezondheid of veiligheid,1,Scholars
-Practitioners,"['Ouden den, W.']",12976545,Artikelen,0,36.0,41.0,['NJB'],"Nederlands Juristenblad, Kroniek van het algemeen bestuursrecht",1,Practitioners
-Scholars,"['Kuipers, G.M.', 'Tjepkema, M.K.G.']",25083708,Artikelen,0,87.0,108.0,['NJB'],"Nederlands Juristenblad, ‘Publieke regie’ in Groningen",2,Scholars
-Scholars,"['Lagrouw, K.']",14562729,Artikelen,0,21.0,11.0,['NTB'],"Nederlands Tijdschrift voor Bestuursrecht, Onverplichte tegemoetkomingen bij bedrijfstakbeperkende maatregelen",1,Scholars
-Practitioners,"['Al Khatib, A.A.']",16031021,Artikelen,0,48.0,8.0,['O&A'],"Overheid en Aansprakelijkheid, Marktregulering en aansprakelijkheid voor schending van het staatssteunrecht door wetgevend handelen",0,Practitioners
-Practitioners,"['Ravels van, B.P.M.', 'Franssen, T.W.', 'Roozendaal, B.J.P.G.', 'Sande van de, S.A.L.']",13709906,Artikelen,0,80.0,69.0,['NTB'],"Nederlands Tijdschrift voor Bestuursrecht, Overheidsaansprakelijkheid",0,Practitioners
-Practitioners,"['Broek van den, G.M.']",13214674,Artikelen,0,29.0,27.0,['O&A'],"Overheid en Aansprakelijkheid, Planschadevergoeding: de omwenteling",0,Practitioners
-Scholars,"['Ouden den, W.', 'Tjepkema, M.K.G.', 'Zijlstra, S.E.']",14562727,Artikelen,0,42.0,94.0,['NTB'],"Nederlands Tijdschrift voor Bestuursrecht, De tegemoetkoming geregeld",3,Scholars
+Unknown;Audience;Authors;DocID;DocumentType;PractitionerAffiliations;Practitioners;Scholars;Source;Title_Text;UniversityAffiliations;Final
+0;Practitioners;Editors;12770368;Artikelen;0;0.0;0.0;['DJ'];Data Juridica, Tegemoetkomingen van overheidswege: ongeregeld en ondoorzichtig bestuur anno 2014;0;Practitioners
+1;Practitioners;['Heijst van, I.P.A.'];25686984;Naslagwerken;0;0.0;0.0;['Omgevingsweb Professional - Planschade en nadeelcompensatie'];Verhouding nadeelcompensatie tot subsidie;0;Practitioners
+2;Practitioners;Editors;12764872;Artikelen;0;0.0;2.0;['NJB'];Nederlands Juristenblad, Staats- & bestuursrecht;0;Practitioners
+3;Practitioners;['Schlössels, R.J.N.', 'Zijlstra, S.E.'];24307440;Naslagwerken;0;6.0;0.0;['Bestuursrecht in de sociale rechtsstaat Band I'];Bestuursrecht in de sociale rechtsstaat Band 1 (Handboeken staats- en bestuursrecht), 573 Kritiek;1;Practitioners
+4;Practitioners;Court;13122325;Rechtspraak;1;15.0;35.0;['AB'];Als gevolg van de toepassing van het de-minimisplafond op de tegemoetkoming tijdelijk aalvisverbod wordt slechts minder dan de helft van de geleden schade vergoed. Dit is in strijd met het gelijkheidsbeginsel en het evenredigheidsbeginsel.;0;Practitioners
+5;Scholars;['Tjepkema, M.K.G.'];12707423;Artikelen;0;48.0;159.0;['NTB'];Nederlands Tijdschrift voor Bestuursrecht, Tegemoetkomingen van overheidswege: ongeregeld en ondoorzichtig bestuur anno 2014;1;Scholars
+6;Practitioners;unknown;8252370;Naslagwerken;0;12.0;0.0;['NDFR - Deel Invordering'];Commentaar bij Awb art. 4:98;0;Practitioners
+7;Practitioners;['Graaf de, K.J.'];13730938;Artikelen;0;9.0;6.0;['AAK'];Bestuurs(proces)recht;0;Practitioners
+8;Practitioners;Editors;12928028;Artikelen;0;2.0;4.0;['TAR'];Tijdschrift voor Ambtenarenrecht, TAR 2014/april - Informatief;0;Practitioners
+9;Scholars;['Kortmann, C.N.J.'];31418164;Artikelen;1;21.0;7.0;['MvV'];Artikel - Het schadefonds Van Vollenhoven - Hoe om te gaan met gedupeerden van acute overheidsmaatregelen ten behoeve van de gezondheid of veiligheid;1;Scholars
+10;Practitioners;['Ouden den, W.'];12976545;Artikelen;0;36.0;41.0;['NJB'];Nederlands Juristenblad, Kroniek van het algemeen bestuursrecht;1;Practitioners
+11;Scholars;['Kuipers, G.M.', 'Tjepkema, M.K.G.'];25083708;Artikelen;0;87.0;108.0;['NJB'];Nederlands Juristenblad, ‘Publieke regie’ in Groningen;2;Scholars
+12;Scholars;['Lagrouw, K.'];14562729;Artikelen;0;21.0;11.0;['NTB'];Nederlands Tijdschrift voor Bestuursrecht, Onverplichte tegemoetkomingen bij bedrijfstakbeperkende maatregelen;1;Scholars
+13;Practitioners;['Al Khatib, A.A.'];16031021;Artikelen;0;48.0;8.0;['O&A'];Overheid en Aansprakelijkheid, Marktregulering en aansprakelijkheid voor schending van het staatssteunrecht door wetgevend handelen;0;Practitioners
+14;Practitioners;['Ravels van, B.P.M.', 'Franssen, T.W.', 'Roozendaal, B.J.P.G.', 'Sande van de, S.A.L.'];13709906;Artikelen;0;80.0;69.0;['NTB'];Nederlands Tijdschrift voor Bestuursrecht, Overheidsaansprakelijkheid;0;Practitioners
+15;Practitioners;['Broek van den, G.M.'];13214674;Artikelen;0;29.0;27.0;['O&A'];Overheid en Aansprakelijkheid, Planschadevergoeding: de omwenteling;0;Practitioners
+16;Scholars;['Ouden den, W.', 'Tjepkema, M.K.G.', 'Zijlstra, S.E.'];14562727;Artikelen;0;42.0;94.0;['NTB'];Nederlands Tijdschrift voor Bestuursrecht, De tegemoetkoming geregeld;3;Scholars
