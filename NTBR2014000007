@@ -1,3 +1,3 @@
-Audience,Authors,DocID,DocumentType,PractitionerAffiliations,Practitioners,Scholars,Source,Title_Text,UniversityAffiliations,Final
-Scholars,"['Boorn van, W.H.', 'Jongste de, C.K.F.']",12658261,Artikelen,1,4.0,12.0,['NTBR'],"Nederlands Tijdschrift voor Burgerlijk Recht, Heeft het BW een politieke kleur?",1,Scholars
-Practitioners,"['Hondius, E.H.']",12800397,Artikelen,0,15.0,25.0,['NTBR'],"Nederlands Tijdschrift voor Burgerlijk Recht, Kroniek Algemeen",0,Practitioners
+Unknown;Audience;Authors;DocID;DocumentType;PractitionerAffiliations;Practitioners;Scholars;Source;Title_Text;UniversityAffiliations;Final
+0;Scholars;['Boorn van, W.H.', 'Jongste de, C.K.F.'];12658261;Artikelen;1;4.0;12.0;['NTBR'];Nederlands Tijdschrift voor Burgerlijk Recht, Heeft het BW een politieke kleur?;1;Scholars
+1;Practitioners;['Hondius, E.H.'];12800397;Artikelen;0;15.0;25.0;['NTBR'];Nederlands Tijdschrift voor Burgerlijk Recht, Kroniek Algemeen;0;Practitioners
