@@ -1,12 +1,12 @@
-Audience,Authors,DocID,DocumentType,PractitionerAffiliations,Practitioners,Scholars,Source,Title_Text,UniversityAffiliations,Final
-Practitioners,Editors,14178112,Artikelen,0,2.0,6.0,['VN'],"Vakstudie Nieuws, Algemeen. Rechtsvinding. Taalkundige wetsuitleg",0,Practitioners
-Practitioners,"['Pieterse, L.J.A.']",26880964,Naslagwerken,0,9.0,0.0,['Springende punten'],"Springende punten. Van Amersfoort-bundel, 22.3.3 Vorming en afboeking van herinvesteringsreserves rondom belangenwijzigingen",0,Practitioners
-Practitioners,Editors,14177760,Artikelen,0,0.0,1.0,['NJB'],"Nederlands Juristenblad, Fiscaal recht",0,Practitioners
-Practitioners,"['Maas, C.J.A.', 'Pieterse, L.J.A.']",28170486,Naslagwerken,0,3.0,0.0,['Systeem en symmetrie'],"Systeem en symmetrie. Liber amicorum mr. C.B. Bavinck, 21.1 Inleiding",0,Practitioners
-Practitioners,Editors,5650593,Naslagwerken,0,0.0,1.0,['VS 01 - Algemeen deel'],"Fiscale Encyclopedie De Vakstudie Algemeen Deel, Aant. 1.9.3 Tekstuele interpretatie bij: Algemene wet inzake rijksbelastingen, Artikel 31 [Richtige heffing]",0,Practitioners
-Practitioners,Editors,5650599,Naslagwerken,0,0.0,0.0,['VS 01 - Algemeen deel'],"Fiscale Encyclopedie De Vakstudie Algemeen Deel, Aant. 1.9.6 Volgorde van hantering der diverse middelen bij: Algemene wet inzake rijksbelastingen, Artikel 31 [Richtige heffing]",0,Practitioners
-Practitioners,"['Maas, C.J.A.']",14154576,Artikelen,0,5.0,62.0,['WFR'],"Weekblad Fiscaal Recht, Beslissen of motiveren? Over het gebruik van taalkundige argumenten in het fiscale recht",0,Practitioners
-Practitioners,"['Pieterse, L.J.A.']",22394039,Artikelen,0,22.0,9.0,['WFR'],"Weekblad Fiscaal Recht, Boekbespreking",0,Practitioners
-Practitioners,Editors,14309618,Artikelen,0,9.0,3.0,['WFR'],"Weekblad Fiscaal Recht, Naar een historisch-dynamische methode van belastingwetenschap",0,Practitioners
-Practitioners,"['Maas, C.J.A.']",17574198,Artikelen,0,12.0,14.0,['WFR'],"Weekblad Fiscaal Recht, De flexibele inzetbaarheid van mondelinge wetsgeschiedenis bij de motivering van rechterlijke uitspraken",0,Practitioners
-Practitioners,unknown,6523684,Naslagwerken,0,46.0,24.0,['NDFR - Deel Formeel belastingrecht'],Commentaar bij Fiscale rechtsvinding art.,0,Practitioners
+Unknown;Audience;Authors;DocID;DocumentType;PractitionerAffiliations;Practitioners;Scholars;Source;Title_Text;UniversityAffiliations;Final
+0;Practitioners;Editors;14178112;Artikelen;0;2.0;6.0;['VN'];Vakstudie Nieuws, Algemeen. Rechtsvinding. Taalkundige wetsuitleg;0;Practitioners
+1;Practitioners;['Pieterse, L.J.A.'];26880964;Naslagwerken;0;9.0;0.0;['Springende punten'];Springende punten. Van Amersfoort-bundel, 22.3.3 Vorming en afboeking van herinvesteringsreserves rondom belangenwijzigingen;0;Practitioners
+2;Practitioners;Editors;14177760;Artikelen;0;0.0;1.0;['NJB'];Nederlands Juristenblad, Fiscaal recht;0;Practitioners
+3;Practitioners;['Maas, C.J.A.', 'Pieterse, L.J.A.'];28170486;Naslagwerken;0;3.0;0.0;['Systeem en symmetrie'];Systeem en symmetrie. Liber amicorum mr. C.B. Bavinck, 21.1 Inleiding;0;Practitioners
+4;Practitioners;Editors;5650593;Naslagwerken;0;0.0;1.0;['VS 01 - Algemeen deel'];Fiscale Encyclopedie De Vakstudie Algemeen Deel, Aant. 1.9.3 Tekstuele interpretatie bij: Algemene wet inzake rijksbelastingen, Artikel 31 [Richtige heffing];0;Practitioners
+5;Practitioners;Editors;5650599;Naslagwerken;0;0.0;0.0;['VS 01 - Algemeen deel'];Fiscale Encyclopedie De Vakstudie Algemeen Deel, Aant. 1.9.6 Volgorde van hantering der diverse middelen bij: Algemene wet inzake rijksbelastingen, Artikel 31 [Richtige heffing];0;Practitioners
+6;Practitioners;['Maas, C.J.A.'];14154576;Artikelen;0;5.0;62.0;['WFR'];Weekblad Fiscaal Recht, Beslissen of motiveren? Over het gebruik van taalkundige argumenten in het fiscale recht;0;Practitioners
+7;Practitioners;['Pieterse, L.J.A.'];22394039;Artikelen;0;22.0;9.0;['WFR'];Weekblad Fiscaal Recht, Boekbespreking;0;Practitioners
+8;Practitioners;Editors;14309618;Artikelen;0;9.0;3.0;['WFR'];Weekblad Fiscaal Recht, Naar een historisch-dynamische methode van belastingwetenschap;0;Practitioners
+9;Practitioners;['Maas, C.J.A.'];17574198;Artikelen;0;12.0;14.0;['WFR'];Weekblad Fiscaal Recht, De flexibele inzetbaarheid van mondelinge wetsgeschiedenis bij de motivering van rechterlijke uitspraken;0;Practitioners
+10;Practitioners;unknown;6523684;Naslagwerken;0;46.0;24.0;['NDFR - Deel Formeel belastingrecht'];Commentaar bij Fiscale rechtsvinding art.;0;Practitioners
