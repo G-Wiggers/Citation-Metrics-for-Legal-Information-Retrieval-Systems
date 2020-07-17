@@ -1,10 +1,10 @@
-Audience,Authors,DocID,DocumentType,PractitionerAffiliations,Practitioners,Scholars,Source,Title_Text,UniversityAffiliations,Final
-Practitioners,Editors,13340766,Artikelen,0,1.0,0.0,['DJ'],"Data Juridica, De andere kant van de ZSM-medaille. Het gebrek aan controle op beleid en beslissingen van het Openbaar Ministerie",0,Practitioners
-Scholars,"['Meij van der, L.J.P.']",13330606,Artikelen,1,19.0,13.0,['NJB'],"Nederlands Juristenblad, De andere kant van de ZSM-medaille",1,Scholars
-Practitioners,"['Kroode ten, T.I.', 'Noyon, L.', 'Samadi, M.', 'Tersmette, D.G.']",24591225,Artikelen,0,183.0,150.0,['NJB'],"Nederlands Juristenblad, Afscheid van de klassieke procedure?",0,Practitioners
-Practitioners,"['Boksem, J.']",22893911,Artikelen,0,23.0,36.0,['NtEr'],Artikel - Recht op toegang tot een advocaat in het strafproces. - Enkele gedachten naar aanleiding van de implementatie van Richtlijn 2013/48/EU.,0,Practitioners
-Practitioners,"['Kooijmans, T.']",14696150,Artikelen,0,18.0,50.0,['DD'],"Delikt en Delinkwent, ZSM en dadelijke tenuitvoerlegging als vorm van snelle afdoening",0,Practitioners
-Practitioners,"['Boksem, J.']",14345444,Artikelen,0,12.0,23.0,['NtEr'],Artikel - Recht op toegang tot een advocaat in het strafproces. - Enkele gedachten naar aanleiding van de implementatie van Richtlijn 2013/48/EU.,0,Practitioners
-Scholars,unknown,31403868,Overig,0,5.0,4.0,['WODC'],"2589 - Simon Thomas, M.; Kampen, P. van; Lent, L. van; Schiffelers, M.-J.; Langbroek, P.; Erp, J. van - WODC - 2017-11-20T19:49:19",0,Practitioners
-Practitioners,unknown,30693742,Overig,0,6.0,1.0,['Rijksoverheid.nl'],"Snel, Betekenisvol en Zorgvuldig, een tussenevaluatie van de ZSM-werkwijze",0,Practitioners
-Practitioners,unknown,20639903,Officiële publicaties,0,26.0,27.0,['Overheid.nl'],"'Snel, Zorgvuldig en Betekenisvol, Een tussenevaluatie van de ZSM-werkwijze’",0,Practitioners
+Unknown;Audience;Authors;DocID;DocumentType;PractitionerAffiliations;Practitioners;Scholars;Source;Title_Text;UniversityAffiliations;Final
+0;Practitioners;Editors;13340766;Artikelen;0;1.0;0.0;['DJ'];Data Juridica, De andere kant van de ZSM-medaille. Het gebrek aan controle op beleid en beslissingen van het Openbaar Ministerie;0;Practitioners
+1;Scholars;['Meij van der, L.J.P.'];13330606;Artikelen;1;19.0;13.0;['NJB'];Nederlands Juristenblad, De andere kant van de ZSM-medaille;1;Scholars
+2;Practitioners;['Kroode ten, T.I.', 'Noyon, L.', 'Samadi, M.', 'Tersmette, D.G.'];24591225;Artikelen;0;183.0;150.0;['NJB'];Nederlands Juristenblad, Afscheid van de klassieke procedure?;1;Practitioners
+3;Practitioners;['Boksem, J.'];22893911;Artikelen;0;23.0;36.0;['NtEr'];Artikel - Recht op toegang tot een advocaat in het strafproces. - Enkele gedachten naar aanleiding van de implementatie van Richtlijn 2013/48/EU.;0;Practitioners
+4;Practitioners;['Kooijmans, T.'];14696150;Artikelen;0;18.0;50.0;['DD'];Delikt en Delinkwent, ZSM en dadelijke tenuitvoerlegging als vorm van snelle afdoening;0;Practitioners
+5;Practitioners;['Boksem, J.'];14345444;Artikelen;0;12.0;23.0;['NtEr'];Artikel - Recht op toegang tot een advocaat in het strafproces. - Enkele gedachten naar aanleiding van de implementatie van Richtlijn 2013/48/EU.;0;Practitioners
+6;Scholars;unknown;31403868;Overig;0;5.0;4.0;['WODC'];"2589 - Simon Thomas, M.; Kampen, P. van; Lent, L. van; Schiffelers, M.-J.; Langbroek, P.; Erp, J. van - WODC - 2017-11-20T19:49:19";0;Practitioners
+7;Practitioners;unknown;30693742;Overig;0;6.0;1.0;['Rijksoverheid.nl'];Snel, Betekenisvol en Zorgvuldig, een tussenevaluatie van de ZSM-werkwijze;0;Practitioners
+8;Practitioners;unknown;20639903;Officiële publicaties;0;26.0;27.0;['Overheid.nl'];'Snel, Zorgvuldig en Betekenisvol, Een tussenevaluatie van de ZSM-werkwijze’;0;Practitioners
