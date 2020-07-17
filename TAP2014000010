@@ -1,6 +1,6 @@
-Audience,Authors,DocID,DocumentType,PractitionerAffiliations,Practitioners,Scholars,Source,Title_Text,UniversityAffiliations,Final
-Practitioners,"['Zekic, N.']",13341346,Naslagwerken,0,2.0,0.0,['Werkzekerheid in het arbeidsrecht'],"Werkzekerheid in het arbeidsrecht (Monografieën Sociaal Recht nr. 65), 5.7.2.4 Toekomstig driekwartdwingend ontslagrecht",0,Practitioners
-Practitioners,"['Peters, S.S.M.']",11610819,Naslagwerken,0,44.0,16.0,['Commentaar Arbeidsrecht Artikelsgewijs'],Commentaar op Wet op de collectieve arbeidsovereenkomst art. 9 (Arbeidsrechtartikelsgewijs),0,Practitioners
-Practitioners,Court,16154193,Rechtspraak,1,35.0,37.0,['JIN'],"JIN 2015/98, Hoge Raad 01-05-2015, ECLI:NL:HR:2015:1192, 14/02969 (met annotatie van E.F.V. Boot en J.R. Vos)",0,Practitioners
-Practitioners,"['Beltzer, R.M.']",12654376,Artikelen,0,114.0,100.0,['TAP'],Art. - Enkele aspecten van cao-recht,0,Practitioners
-Practitioners,"['Zondag, W.A.', 'Valk de, S.N.']",3908592,Naslagwerken,0,281.0,496.0,['Commentaar Arbeidsrecht Thematisch'],Commentaar op Wet op de collectieve arbeidsovereenkomst art. 1 (Arbeidsrecht),0,Practitioners
+Unknown;Audience;Authors;DocID;DocumentType;PractitionerAffiliations;Practitioners;Scholars;Source;Title_Text;UniversityAffiliations;Final
+0;Practitioners;['Zekic, N.'];13341346;Naslagwerken;0;2.0;0.0;['Werkzekerheid in het arbeidsrecht'];Werkzekerheid in het arbeidsrecht (Monografieën Sociaal Recht nr. 65), 5.7.2.4 Toekomstig driekwartdwingend ontslagrecht;0;Practitioners
+1;Practitioners;['Peters, S.S.M.'];11610819;Naslagwerken;0;44.0;16.0;['Commentaar Arbeidsrecht Artikelsgewijs'];Commentaar op Wet op de collectieve arbeidsovereenkomst art. 9 (Arbeidsrechtartikelsgewijs);0;Practitioners
+2;Practitioners;Court;16154193;Rechtspraak;1;35.0;37.0;['JIN'];JIN 2015/98, Hoge Raad 01-05-2015, ECLI:NL:HR:2015:1192, 14/02969 (met annotatie van E.F.V. Boot en J.R. Vos);0;Practitioners
+3;Practitioners;['Beltzer, R.M.'];12654376;Artikelen;0;114.0;100.0;['TAP'];Art. - Enkele aspecten van cao-recht;0;Practitioners
+4;Practitioners;['Zondag, W.A.', 'Valk de, S.N.'];3908592;Naslagwerken;0;281.0;496.0;['Commentaar Arbeidsrecht Thematisch'];Commentaar op Wet op de collectieve arbeidsovereenkomst art. 1 (Arbeidsrecht);0;Practitioners
