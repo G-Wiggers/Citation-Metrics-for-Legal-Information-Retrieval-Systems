@@ -1,11 +1,11 @@
-Audience,Authors,DocID,DocumentType,PractitionerAffiliations,Practitioners,Scholars,Source,Title_Text,UniversityAffiliations,Final
-Practitioners,Editors,13367320,Artikelen,0,0.0,23.0,['DJ'],"Data Juridica, Cessie- en verpandingsverboden: nieuw arrest, nieuwe problemen",0,Practitioners
-Practitioners,"['Bijloo, J.O.']",14155221,Artikelen,0,8.0,0.0,['JUTD'],Bouwrecht - Praktische uitwerkingen van cessie- en verpandingsverboden in de bouwpraktijk,0,Practitioners
-Practitioners,"['Smits, W.J.G.', 'Hekman, T.']",19930564,Artikelen,0,139.0,100.0,['FIP'],Art. - Coface/Intergamma in de praktijk: schipperen tussen rechtszekerheid en financierbaarheid,0,Practitioners
-Practitioners,"['Cassel van-van Zeeland, F.M.']",16190599,Naslagwerken,0,42.0,23.0,['Groene Serie - Vermogensrecht'],"Groene Serie Vermogensrecht, 5.4.9 Cessieverbod en verpandingsverbod bij: Burgerlijk Wetboek Boek 3, Artikel 35 [Gerechtvaardigd vertrouwen]",0,Practitioners
-Scholars,"['Witte de, F.A.']",14500445,Artikelen,0,94.0,123.0,['WPNR'],Na Coface / Intergamma de bevoorrechte positie van de kredietverstrekker als pandhouder heroverwogen,1,Scholars
-Scholars,"['Wibier, R.M.']",13361780,Artikelen,0,34.0,47.0,['TBR'],"Cessie- en verpandingsverboden: nieuw arrest, nieuwe problemen",1,Scholars
-Practitioners,"['Smits, W.J.G.']",22069196,Artikelen,0,161.0,103.0,['TvCu'],Het verpandingsverbod uitgelegd: feitenrechtspraak na Coface/Intergamma,0,Practitioners
-Practitioners,"['Cassel van-van Zeeland, F.M.']",16190640,Naslagwerken,0,78.0,33.0,['Groene Serie - Vermogensrecht'],"Groene Serie Vermogensrecht, 1.1 Literatuur bij: Burgerlijk Wetboek Boek 3, Artikel 35 [Gerechtvaardigd vertrouwen]",0,Practitioners
-Practitioners,"['Vermeulen, C.']",31551301,Artikelen,0,117.0,94.0,['TvCu'],"De (stil) verpande vordering, hoe zat het ook alweer?",0,Practitioners
-Scholars,"['Bosch van den, R.', 'Messelink, K.A.']",24142317,Artikelen,2,383.0,236.0,['NTHR'],De relevantie van het pandrecht voor de bancaire financieringspraktijk. Een terugblik op 25 jaar stil pandrecht sinds de invoering van het nieuw Burgerlijk Wetboek,0,Practitioners
+Unknown;Audience;Authors;DocID;DocumentType;PractitionerAffiliations;Practitioners;Scholars;Source;Title_Text;UniversityAffiliations;Final
+0;Practitioners;Editors;13367320;Artikelen;0;0.0;23.0;['DJ'];Data Juridica, Cessie- en verpandingsverboden: nieuw arrest, nieuwe problemen;0;Practitioners
+1;Practitioners;['Bijloo, J.O.'];14155221;Artikelen;0;8.0;0.0;['JUTD'];Bouwrecht - Praktische uitwerkingen van cessie- en verpandingsverboden in de bouwpraktijk;0;Practitioners
+2;Practitioners;['Smits, W.J.G.', 'Hekman, T.'];19930564;Artikelen;0;139.0;100.0;['FIP'];Art. - Coface/Intergamma in de praktijk: schipperen tussen rechtszekerheid en financierbaarheid;0;Practitioners
+3;Practitioners;['Cassel van-van Zeeland, F.M.'];16190599;Naslagwerken;0;42.0;23.0;['Groene Serie - Vermogensrecht'];Groene Serie Vermogensrecht, 5.4.9 Cessieverbod en verpandingsverbod bij: Burgerlijk Wetboek Boek 3, Artikel 35 [Gerechtvaardigd vertrouwen];0;Practitioners
+4;Scholars;['Witte de, F.A.'];14500445;Artikelen;0;94.0;123.0;['WPNR'];Na Coface / Intergamma de bevoorrechte positie van de kredietverstrekker als pandhouder heroverwogen;1;Scholars
+5;Scholars;['Wibier, R.M.'];13361780;Artikelen;0;34.0;47.0;['TBR'];Cessie- en verpandingsverboden: nieuw arrest, nieuwe problemen;1;Scholars
+6;Practitioners;['Smits, W.J.G.'];22069196;Artikelen;0;161.0;103.0;['TvCu'];Het verpandingsverbod uitgelegd: feitenrechtspraak na Coface/Intergamma;0;Practitioners
+7;Practitioners;['Cassel van-van Zeeland, F.M.'];16190640;Naslagwerken;0;78.0;33.0;['Groene Serie - Vermogensrecht'];Groene Serie Vermogensrecht, 1.1 Literatuur bij: Burgerlijk Wetboek Boek 3, Artikel 35 [Gerechtvaardigd vertrouwen];0;Practitioners
+8;Practitioners;['Vermeulen, C.'];31551301;Artikelen;0;117.0;94.0;['TvCu'];De (stil) verpande vordering, hoe zat het ook alweer?;0;Practitioners
+9;Scholars;['Bosch van den, R.', 'Messelink, K.A.'];24142317;Artikelen;2;383.0;236.0;['NTHR'];De relevantie van het pandrecht voor de bancaire financieringspraktijk. Een terugblik op 25 jaar stil pandrecht sinds de invoering van het nieuw Burgerlijk Wetboek;0;Practitioners
