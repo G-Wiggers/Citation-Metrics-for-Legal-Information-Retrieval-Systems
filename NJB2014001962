@@ -1,7 +1,7 @@
-Audience,Authors,DocID,DocumentType,PractitionerAffiliations,Practitioners,Scholars,Source,Title_Text,UniversityAffiliations,Final
-Practitioners,Editors,14170627,Artikelen,0,0.0,0.0,['DJ'],"Data Juridica, Bescheidenheid en moed",0,Practitioners
-Practitioners,"['Venema, D.']",27291445,Naslagwerken,0,5.0,8.0,['Het verhaal van de rechter'],"Het verhaal van de rechter (Staat en Recht nr. 38), 1.5 Recht en leven",0,Practitioners
-Practitioners,"['Corstens, G.J.M.']",14151738,Artikelen,0,23.0,9.0,['NJB'],"Nederlands Juristenblad, Bescheidenheid en moed",0,Practitioners
-Practitioners,"[""Bovend'Eerdt, K."", 'Kluiver de, C.', 'Trapman, L.', 'Samadi, M.']",15267731,Artikelen,0,20.0,45.0,['AA'],Recht en taal,0,Practitioners
-Scholars,"['Gaakeer, A.M.P.']",15267736,Artikelen,1,23.0,90.0,['AA'],"Deel II - Recht, taal en de ordening van de werkelijkheid. Grensbepalingen, grensverkenningen en grensoverschrijdingen",1,Scholars
-Practitioners,"['Groot de-van Leeuwen, L.E.', 'Schlössels, R.J.N.', 'Schutgens, R.J.B.', 'Terlouw, A.B.', 'Venema, D.']",32496198,,0,0.0,0.0,['Het verhaal van de rechter - druk: 1 - 2018'],"Het verhaal van de rechter - druk: 1 - 2018 - Deel 1: Rechter, beeld, taal en literatuur",0,Practitioners
+Unknown;Audience;Authors;DocID;DocumentType;PractitionerAffiliations;Practitioners;Scholars;Source;Title_Text;UniversityAffiliations;Final
+0;Practitioners;Editors;14170627;Artikelen;0;0.0;0.0;['DJ'];Data Juridica, Bescheidenheid en moed;0;Practitioners
+1;Practitioners;['Venema, D.'];27291445;Naslagwerken;0;5.0;8.0;['Het verhaal van de rechter'];Het verhaal van de rechter (Staat en Recht nr. 38), 1.5 Recht en leven;0;Practitioners
+2;Practitioners;['Corstens, G.J.M.'];14151738;Artikelen;0;23.0;9.0;['NJB'];Nederlands Juristenblad, Bescheidenheid en moed;0;Practitioners
+3;Practitioners;"[""Bovend'Eerdt, K."", 'Kluiver de, C.', 'Trapman, L.', 'Samadi, M.']";15267731;Artikelen;0;20.0;45.0;['AA'];Recht en taal;1;Practitioners
+4;Scholars;['Gaakeer, A.M.P.'];15267736;Artikelen;1;23.0;90.0;['AA'];Deel II - Recht, taal en de ordening van de werkelijkheid. Grensbepalingen, grensverkenningen en grensoverschrijdingen;1;Scholars
+5;Practitioners;['Groot de-van Leeuwen, L.E.', 'Schlössels, R.J.N.', 'Schutgens, R.J.B.', 'Terlouw, A.B.', 'Venema, D.'];32496198;;0;0.0;0.0;['Het verhaal van de rechter - druk: 1 - 2018'];Het verhaal van de rechter - druk: 1 - 2018 - Deel 1: Rechter, beeld, taal en literatuur;0;Practitioners
